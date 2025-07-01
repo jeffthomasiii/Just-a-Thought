@@ -5,5 +5,5 @@ url: "https://jeffthomasiii.github.io"
 theme: minima
 
 # Optional: enable GitHub Pages plugins
-plugins:
-  - jekyll-feed
+# plugins:
+#  - jekyll-feed
