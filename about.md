@@ -16,7 +16,6 @@ Thanks for reading. I hope something here blesses, challenges, or encourages you
 
 “…just a thought.”
 
----
 
 ### 📬 Connect With Me
 
