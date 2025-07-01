@@ -9,7 +9,6 @@ Each post is a reflection in progress. Thanks for joining the journey.
 
 “…just a thought.”
 
----
 
 ### 📬 Stay Connected
 
