@@ -1,9 +1,9 @@
-layout: home
 title: Just A Thought
 description: A blog of reflection on faith, marriage, culture, technology, and camping.
 baseurl: "/Just-a-Thought"
 url: "https://jeffthomasiii.github.io"
 theme: minima
+excerpt_separator: <!--more-->
 
 # Minima 3.x navigation support:
 minima:
@@ -12,7 +12,8 @@ minima:
   header_pages:
     - about.md
     - tags.md
-    
+
 # Optional: enable GitHub Pages plugins
-# plugins:
-#  - jekyll-feed
+# Uncomment the lines below to include an RSS feed for your blog
+ plugins:
+   - jekyll-feed
