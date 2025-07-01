@@ -3,22 +3,19 @@ description: A blog of reflection on faith, marriage, culture, technology, and c
 baseurl: "/Just-a-Thought"
 url: "https://jeffthomasiii.github.io"
 theme: minima
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 
-# Minima 3.x navigation support:
 minima:
   social_links:
-#    github: jeffthomasiii
-    X: jeffthomasiii
+    github: jeffthomasiii
+    twitter: jeffthomasiii
     linkedin: jeff-thomas-iii
     instagram: jeffthomasiii
     rss: true
   header_pages:
     - about.md
     - tags.md
-  show_excerpts: true      # ← enable excerpts under post titles
-  
-# Optional: enable GitHub Pages plugins
-# Uncomment the lines below to include an RSS feed for your blog
- plugins:
-   - jekyll-feed
+  show_excerpts: true
+
+plugins:
+  - jekyll-feed
