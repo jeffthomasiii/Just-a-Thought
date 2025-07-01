@@ -4,6 +4,7 @@ baseurl: "/Just-a-Thought"
 url: "https://jeffthomasiii.github.io"
 theme: minima
 excerpt_separator: "<!--more-->"
+permalink: /:categories/:title/ 
 
 minima:
   social_links:
