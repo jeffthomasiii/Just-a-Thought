@@ -10,9 +10,8 @@ comments: true
 image: /assets/images/courage-preparation-endurance.jpg
 excerpt: >
   You weren’t promised comfort—you were called to battle. Learn how to fight the good fight with courage, preparation, and endurance. Stand firm, because you are not alone.
+
 ---
-
-
 
 # Courage, Preparation, and Endurance: Fighting the Good Fight Together  
 ### *When the Battle Rages, Stand Strong—For You Are Not Alone.*
@@ -23,7 +22,6 @@ But far too many of us step onto the field of faith unprepared or unaware. We ar
 
 So let’s get honest: we’re at war. And it’s time to stop running and start standing.
 
----
 
 ## The Field Is Real: A Story for the Soldiers
 
@@ -38,7 +36,6 @@ So, you stand.
 Not because you feel ready. But because He is with you.  
 Not because it’s easy. But because the cause is worth it.
 
----
 
 ## Courage: Trusting God When Fear Fights Back
 
@@ -51,7 +48,6 @@ Fear isn’t failure—it’s a signal. It tells you you're up against something
 
 God isn’t looking for superheroes. He’s calling for those willing to trust Him. Courage is born not in your ability, but in your willingness to believe that His strength is enough.
 
----
 
 ## Preparation: Training Before the Fire
 
@@ -64,7 +60,6 @@ Prayer isn’t optional—it’s your communication line with your Commander. Th
 
 You prepare not just for yourself, but for the sake of those fighting beside you.
 
----
 
 ## Endurance: Holding Ground When It Hurts
 
@@ -75,7 +70,6 @@ When you’re tired, confused, or suffering, you may feel like you're losing. Bu
 
 We endure because Christ endured. We fight with prayer, truth, worship, and unity—divinely powered weapons that no darkness can overcome.
 
----
 
 ## The Real Enemy Isn’t Each Other
 
@@ -89,7 +83,6 @@ When you feel anger rise, take a breath and ask: *Am I targeting the wrong enemy
 
 Unity isn’t agreement on everything—it’s agreement on who we’re following and who we’re fighting against.
 
----
 
 ## Accountability in Love: Rebuke with Grace, Not Shame
 
@@ -114,7 +107,6 @@ We all need correction sometimes. But we also need it to come from a place of hu
 
 This is how we build a house that stands.
 
----
 
 ## A Final Charge: Stand. Fight. Endure.
 
@@ -137,7 +129,6 @@ So whatever you’re facing—grief, temptation, waiting, heartbreak, burnout—
 
 **Stand firm. The war is real. But so is the victory.**
 
----
 
 ## Prayer: Our Commander, Our Strength
 
@@ -152,6 +143,5 @@ Teach us to see the real enemy and fight with wisdom, with grace, and with power
 
 **In the mighty name of Jesus we pray, Amen.**
 
----
 
 *…just a thought.*
