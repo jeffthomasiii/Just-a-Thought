@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clothed in Strength: When a Woman Laughs at the Future"
-date: 2025-07-01
+date: 2025-07-04
 author: Jeff Thomas III
 categories: [Faith, Devotional, Scripture Study]
 tags: [Proverbs 31, godly character, biblical womanhood, faith, strength, courage, future, trust, exegesis]
@@ -92,4 +92,4 @@ And when you think about tomorrow, what’s your posture? Fearful? Frantic? Or m
 It’s not foolish to laugh at the future.  
 It’s faithful.
 
-**Just a thought.**
+**Just a thought...**
