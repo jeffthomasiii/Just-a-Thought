@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Just A Thought
-![Blog Banner]({{ '/assets/images/header.jpg' | relative_url }})
 ---
+
+![Blog Banner]({{ '/assets/images/header.jpg' | relative_url }})
 
 # Just A Thought
 
