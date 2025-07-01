@@ -9,8 +9,6 @@ excerpt: "Marriage is more than companionship or romance, it's a sacred reflecti
 image: /assets/images/marriage-is-ministry.jpg
 ---
 
-## Marriage IS Ministry
-
 I used to think ministry happened mostly on stages, in pulpits, or mission fields. But somewhere between unspoken expectations, quiet apologies, and Saturday morning dishes, God showed me something deeper. Marriage itself is ministry. And not just any ministry, it’s a picture of the most sacred mystery Paul ever wrote about.
 
 > “This mystery is profound, and I am saying that it refers to Christ and the church.”  
@@ -56,5 +54,5 @@ Not because it’s easy. Not because it’s glamorous. But because it’s holy.
 
 …just a thought.
 
-**How has your view of marriage changed over time?**  
-**What does your marriage currently reflect to those watching?**
+How has your view of marriage changed over time?
+What does your marriage currently reflect to those watching?
