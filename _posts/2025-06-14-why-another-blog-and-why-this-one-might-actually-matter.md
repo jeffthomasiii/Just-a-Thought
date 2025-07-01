@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Another Blog? And Why This One Might Actually Matter"
-date: 2025-06-14
+date: 2025-06-11
 author: Jeff Thomas III
 categories: [intro, welcome]
 tags: [faith-in-practice, biblical-marriage, thoughtful-tech, camping-life, scripture-journaling, christian-living]
@@ -53,7 +53,6 @@ Let’s think, reflect, and grow, together.
 
 …just a thought.
 
----
 
 **What kind of questions or topics are you wrestling with these days?**  
 Leave a comment or [send a message](#) — I’d love to hear from you.
