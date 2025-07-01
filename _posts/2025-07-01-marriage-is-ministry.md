@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "Marriage IS Ministry"
 date: 2025-07-01
+author: Jeff Thomas III
 categories: [marriage, faith]
 tags: [Ephesians 5, Christ and the Church, biblical marriage, sacrificial love, mystery of marriage]
 excerpt: "Marriage is more than companionship or romance, it's a sacred reflection of Christ and the Church. What if every moment in marriage was seen as ministry?"
