@@ -1,6 +1,8 @@
 ---
 layout: home
-title: My Blog
+title: Just A Thought
 ---
 
-Welcome to my blog! New posts below.
+Welcome to *Just A Thought* — a place to reflect on faith, marriage, technology, culture, and camping.  
+Each post is a small window into what I’m learning, questioning, or growing through.  
+Stick around. Comment. Share. Let’s think deeply together.
