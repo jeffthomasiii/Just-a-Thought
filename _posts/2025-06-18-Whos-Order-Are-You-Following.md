@@ -87,7 +87,6 @@ Realignment doesn’t require a massive overhaul. Just obedience, one choice at 
 
 …just a thought.
 
----
-
-**🟡 What about you?**  
-Where do you sense your priorities have drifted? What would “God’s order” look like in your daily life this week?
+What about you?
+Where do you sense your priorities have drifted?
+What would “God’s order” look like in your daily life this week?
