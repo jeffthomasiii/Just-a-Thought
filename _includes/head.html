@@ -1,0 +1,20 @@
+<!-- Standard Meta -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Title & Description -->
+<title>{{ page.title }} | {{ site.title }}</title>
+<meta name="description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200 }}" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:image" content="{{ site.url }}{{ page.image | default: '/assets/images/default-og.jpg' }}" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 200 }}" />
+<meta name="twitter:image" content="{{ site.url }}{{ page.image | default: '/assets/images/default-og.jpg' }}" />
