@@ -10,7 +10,6 @@ comments: true
 image: /assets/images/courage-preparation-endurance.jpg
 excerpt: >
   You weren’t promised comfort—you were called to battle. Learn how to fight the good fight with courage, preparation, and endurance. Stand firm, because you are not alone.
-
 ---
 
 # Courage, Preparation, and Endurance: Fighting the Good Fight Together  
