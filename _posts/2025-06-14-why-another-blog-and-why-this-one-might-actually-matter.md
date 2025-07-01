@@ -54,5 +54,4 @@ Let’s think, reflect, and grow, together.
 …just a thought.
 
 
-**What kind of questions or topics are you wrestling with these days?**  
-Leave a comment or [send a message](#) — I’d love to hear from you.
+What kind of questions or topics are you wrestling with these days?
