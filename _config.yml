@@ -12,7 +12,8 @@ minima:
   header_pages:
     - about.md
     - tags.md
-
+  show_excerpts: true      # ← enable excerpts under post titles
+  
 # Optional: enable GitHub Pages plugins
 # Uncomment the lines below to include an RSS feed for your blog
  plugins:
