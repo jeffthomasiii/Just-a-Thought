@@ -1,3 +1,9 @@
-title: Just a Thought
-description: A simple blog hosted on GitHub Pages using Jekyll
+title: Just A Thought
+description: A blog of reflection on faith, marriage, culture, technology, and camping.
+baseurl: "/Just-a-Thought"
+url: "https://jeffthomasiii.github.io"
 theme: minima
+
+# Optional: enable GitHub Pages plugins
+plugins:
+  - jekyll-feed
