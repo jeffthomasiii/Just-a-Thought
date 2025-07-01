@@ -14,9 +14,9 @@ excerpt: >
 ---
 
 # Courage, Preparation, and Endurance: Fighting the Good Fight Together  
-### *When the Battle Rages, Stand Strong—For You Are Not Alone.*
+### *When the Battle Rages, Stand Strong, For You Are Not Alone.*
 
-War isn’t always loud. Sometimes, it’s quiet. It looks like disappointment, delay, betrayal, depression, exhaustion. It creeps into our relationships, our workplaces, our churches, and our own thoughts. We weren’t promised ease—we were called to battle.
+War isn’t always loud. Sometimes, it’s quiet. It looks like disappointment, delay, betrayal, depression, exhaustion. It creeps into our relationships, our workplaces, our churches, and our own thoughts. We weren’t promised ease, we were called to battle.
 
 But far too many of us step onto the field of faith unprepared or unaware. We are surprised by hardship, offended by suffering, and sometimes even tempted to retreat. We pray for peace but panic when the storm comes. We ask for strength but collapse when resistance shows up.
 
@@ -39,7 +39,7 @@ Not because it’s easy. But because the cause is worth it.
 
 ## Courage: Trusting God When Fear Fights Back
 
-Fear isn’t failure—it’s a signal. It tells you you're up against something bigger than you, and that’s exactly when you need to remember who is with you.
+Fear isn’t failure, it’s a signal. It tells you you're up against something bigger than you, and that’s exactly when you need to remember who is with you.
 
 **Ephesians 6:10–13 (ESV):**  
 > “Finally, be strong in the Lord and in the strength of his might. Put on the whole armor of God, that you may be able to stand against the schemes of the devil. For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places.  
@@ -53,7 +53,7 @@ God isn’t looking for superheroes. He’s calling for those willing to trust H
 
 You wouldn’t walk into a war zone without armor or strategy. So why face spiritual warfare without spiritual preparation?
 
-Prayer isn’t optional—it’s your communication line with your Commander. The Word isn’t supplemental—it’s your strategy guide. Fasting isn’t religious performance—it’s focus, discipline, surrender.
+Prayer isn’t optional, it’s your communication line with your Commander. The Word isn’t supplemental, it’s your strategy guide. Fasting isn’t religious performance, it’s focus, discipline, surrender.
 
 **Galatians 6:1–2 (ESV):**  
 > “Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted. Bear one another’s burdens, and so fulfill the law of Christ.”
@@ -63,12 +63,12 @@ You prepare not just for yourself, but for the sake of those fighting beside you
 
 ## Endurance: Holding Ground When It Hurts
 
-When you’re tired, confused, or suffering, you may feel like you're losing. But endurance isn’t about speed or skill—it’s about staying in the fight.
+When you’re tired, confused, or suffering, you may feel like you're losing. But endurance isn’t about speed or skill, it’s about staying in the fight.
 
 **2 Corinthians 10:3–5 (ESV):**  
 > “For though we walk in the flesh, we are not waging war according to the flesh. For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds. We destroy arguments and every lofty opinion raised against the knowledge of God, and take every thought captive to obey Christ.”
 
-We endure because Christ endured. We fight with prayer, truth, worship, and unity—divinely powered weapons that no darkness can overcome.
+We endure because Christ endured. We fight with prayer, truth, worship, and unity, divinely powered weapons that no darkness can overcome.
 
 
 ## The Real Enemy Isn’t Each Other
@@ -81,7 +81,7 @@ When you feel anger rise, take a breath and ask: *Am I targeting the wrong enemy
 - **In your job:** bless instead of curse.  
 - **In your church:** confront with love, not gossip.
 
-Unity isn’t agreement on everything—it’s agreement on who we’re following and who we’re fighting against.
+Unity isn’t agreement on everything, it’s agreement on who we’re following and who we’re fighting against.
 
 
 ## Accountability in Love: Rebuke with Grace, Not Shame
@@ -117,11 +117,11 @@ So here it is:
 
 We are not cowards. We are not orphans. We are not alone. We are the army of the Living God.
 
-We don’t run from darkness—we carry the light into it.  
-We don’t retreat from hardship—we are refined in it.  
-We don’t turn on each other—we fight *with* each other, *for* each other.
+We don’t run from darkness, we carry the light into it.  
+We don’t retreat from hardship, we are refined in it.  
+We don’t turn on each other, we fight *with* each other, *for* each other.
 
-So whatever you’re facing—grief, temptation, waiting, heartbreak, burnout—do not give up. Don’t let the enemy win by convincing you to sit this one out.
+So whatever you’re facing grief, temptation, waiting, heartbreak, or burnout do not give up. Don’t let the enemy win by convincing you to sit this one out.
 
 **You were born for such a time as this.**  
 **You were equipped by the Spirit.**  
