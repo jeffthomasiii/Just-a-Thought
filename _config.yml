@@ -5,6 +5,14 @@ baseurl: "/Just-a-Thought"
 url: "https://jeffthomasiii.github.io"
 theme: minima
 
+# Minima 3.x navigation support:
+minima:
+  social_links:
+    github: jeffthomasiii
+  header_pages:
+    - about.md
+    - tags.md
+    
 # Optional: enable GitHub Pages plugins
 # plugins:
 #  - jekyll-feed
