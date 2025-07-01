@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "Whose Order Are You Following?"
 date: 2025-06-18
+author: Jeff Thomas III
 categories: [Faith, Priorities, Relationships]
 tags: [Biblical Order, Marriage, Parenting, Spiritual Growth, Christian Living]
 excerpt: "When our priorities are out of order, even good things can become distractions from God’s best. What if real peace begins by realigning with God’s original design?"
