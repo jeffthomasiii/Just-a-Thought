@@ -17,7 +17,6 @@ Here’s a breakdown of topics I’ve been reflecting on. Click a tag to jump to
   {% endfor %}
 </ul>
 
----
 
 ## 🔖 Posts by Tag
 
