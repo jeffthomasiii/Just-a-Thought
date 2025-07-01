@@ -3,6 +3,6 @@ layout: home
 title: Just A Thought
 ---
 
-Welcome to *Just A Thought* — a place to reflect on faith, marriage, technology, culture, and camping.  
-Each post is a small window into what I’m learning, questioning, or growing through.  
-Stick around. Comment. Share. Let’s think deeply together.
+Welcome to *Just A Thought* — a place for real talk on faith, marriage, camping, and more. I write to think out loud and process life in the light of the Gospel.
+
+Stick around. Let’s grow together.
