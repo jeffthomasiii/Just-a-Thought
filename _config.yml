@@ -8,7 +8,11 @@ excerpt_separator: <!--more-->
 # Minima 3.x navigation support:
 cayman:
   social_links:
-    github: jeffthomasiii
+#    github: jeffthomasiii
+    X: jeffthomasiii
+    linkedin: jeff-thomas-iii
+    instagram: jeffthomasiii
+    rss: true
   header_pages:
     - about.md
     - tags.md
