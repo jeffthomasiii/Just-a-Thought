@@ -2,6 +2,7 @@
 layout: post
 title: "Filling the Mind, Not Emptying It: The Power of Biblical Meditation"
 date: 2025-06-14
+author: Jeff Thomas III
 categories: [faith, devotional, spiritual-discipline]
 tags: [biblical meditation, spiritual formation, Scripture, transformation, peace, wisdom, Psalm 119]
 excerpt: "Biblical meditation isn't about emptying your mind—it's about filling it with God's truth. Learn how Scripture defines meditation and how it transforms the heart."
