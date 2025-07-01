@@ -48,6 +48,7 @@ One verse we repeat at lunch. One we reflect on in the carpool line. One we pray
 
 Meditation isn’t about perfection, it’s about pursuit. A quiet, steady returning to God’s voice in a noisy world.
 
-**…just a thought.**
+…just a thought.
 
-**What’s one verse you can start meditating on this week? How might that simple practice shift your mindset or strengthen your connection with God?**
+What’s one verse you can start meditating on this week? 
+How might that simple practice shift your mindset or strengthen your connection with God?
