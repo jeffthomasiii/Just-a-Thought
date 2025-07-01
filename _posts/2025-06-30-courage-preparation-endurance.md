@@ -12,7 +12,6 @@ excerpt: >
   You weren’t promised comfort—you were called to battle. Learn how to fight the good fight with courage, preparation, and endurance. Stand firm, because you are not alone.
 ---
 
-# Courage, Preparation, and Endurance: Fighting the Good Fight Together  
 ### *When the Battle Rages, Stand Strong, For You Are Not Alone.*
 
 War isn’t always loud. Sometimes, it’s quiet. It looks like disappointment, delay, betrayal, depression, exhaustion. It creeps into our relationships, our workplaces, our churches, and our own thoughts. We weren’t promised ease, we were called to battle.
