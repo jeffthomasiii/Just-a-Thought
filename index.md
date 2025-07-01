@@ -15,7 +15,7 @@ Each post is a reflection in progress. Thanks for joining the journey.
 ## 📝 Latest Posts
 
 {% for post in site.posts %}
-### [{{ post.title }}]({{ post.url }})
+### [{{ post.title }}]({{ post.url | relative_url }})
 <small>{{ post.date | date: "%B %-d, %Y" }}</small>
 
 {{ post.excerpt | strip_html | truncatewords: 30 }}
