@@ -2,11 +2,11 @@ title: Just A Thought
 description: A blog of reflection on faith, marriage, culture, technology, and camping.
 baseurl: "/Just-a-Thought"
 url: "https://jeffthomasiii.github.io"
-theme: minima
+theme: cayman
 excerpt_separator: <!--more-->
 
 # Minima 3.x navigation support:
-minima:
+cayman:
   social_links:
     github: jeffthomasiii
   header_pages:
