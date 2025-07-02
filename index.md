@@ -27,7 +27,4 @@ Each post is a reflection in progress. Thanks for joining the journey.
 
 ### 📬 Stay Connected
 
-- 🐦 [X (Twitter)](https://twitter.com/jeffthomasiii)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeff-thomas-iii/)
-- 📸 [Instagram](https://www.instagram.com/jeffthomasiii)
-<!-- - 🧠 [GitHub](https://github.com/jeffthomasiii) -->
+🐦 [X](https://twitter.com/jeffthomasiii) | 💼 [LinkedIn](https://www.linkedin.com/in/jeffthomasiii/) | 📸 [Instagram](https://www.instagram.com/jeffthomasiii) | 🧠 [GitHub](https://github.com/jeffthomasiii)
