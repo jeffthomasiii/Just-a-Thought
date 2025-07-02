@@ -19,8 +19,5 @@ Thanks for reading. I hope something here blesses, challenges, or encourages you
 
 ### 📬 Connect With Me
 
-- 🐦 [X](https://twitter.com/jeffthomasiii)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeff-thomas-iii/)
-- 📸 [Instagram](https://www.instagram.com/jeffthomasiii)
-<!-- - 🧠 [GitHub](https://github.com/jeffthomasiii) -->
+🐦 [X](https://twitter.com/jeffthomasiii) | 💼 [LinkedIn](https://www.linkedin.com/in/jeffthomasiii/) | 📸 [Instagram](https://www.instagram.com/jeffthomasiii) | 🧠 [GitHub](https://github.com/jeffthomasiii)
 
