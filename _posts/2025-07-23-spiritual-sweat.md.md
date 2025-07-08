@@ -3,6 +3,7 @@ layout: post
 title: "Spiritual Sweat"
 subtitle: "Training Naked: The Lost Discipline of Undistracted Devotion"
 date: 2025-07-23
+author: Jeff Thomas III
 tags: [faith, discipline, godliness, spiritual-growth]
 ---
 
