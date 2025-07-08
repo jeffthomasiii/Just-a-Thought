@@ -1,7 +1,7 @@
 ---
 title: Husbands, Speak Life When She Forgets Who She Is
 subtitle: A Speak Life Series
-date: 2025-07-03
+date: 2025-07-09
 tags: [marriage, husbands, prayer, speaking life, biblical marriage]
 excerpt: When your wife is weary, anxious, or questioning her worth, you have the authority to speak life and truth over her. Here's how to pray for her and affirm who God says she is.
 image: /assets/images/speak-life-over-her.jpg
