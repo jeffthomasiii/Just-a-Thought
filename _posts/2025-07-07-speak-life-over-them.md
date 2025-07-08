@@ -1,6 +1,6 @@
 ---
 title: Speak Life Over Them
-date: 2025-07-02
+date: 2025-07-07
 tags: [marriage, prayer, speaking life, husbands, wives, biblical marriage]
 excerpt: This 2-part blog series invites husbands and wives to intentionally pray for and speak truth over each other with the power of Scripture, compassion, and clarity.
 image: /assets/images/speak-life-over-them.jpg
