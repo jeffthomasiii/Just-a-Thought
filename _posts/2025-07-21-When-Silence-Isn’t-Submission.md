@@ -2,6 +2,7 @@
 layout: post
 title: When Silence Isn’t Submission
 date: 2025-07-21
+author: Jeff Thomas III
 categories:
   - faith
   - culture
