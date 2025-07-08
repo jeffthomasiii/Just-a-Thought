@@ -2,6 +2,7 @@
 title: Wives, Speak Life When He Feels the Weight of It All
 subtitle: A Speak Life Series
 date: 2025-07-11
+author: Jeff Thomas III
 tags: [marriage, wives, prayer, speaking life, biblical marriage]
 excerpt: Your husband may never ask for prayer, but that doesn’t mean he doesn’t need it. Here’s how to intercede for him and speak truth into the battles he faces in silence.
 image: /assets/images/speak-life-over-him.jpg
