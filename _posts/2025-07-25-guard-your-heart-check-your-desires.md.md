@@ -2,6 +2,7 @@
 layout: post
 title: "Guard Your Heart: Check Your Desires Early"
 date: 2025-07-25
+author: Jeff Thomas III
 categories: [faith, reflection]
 tags: [Proverbs, heart, desires, self-control, spiritual-discipline]
 ---
