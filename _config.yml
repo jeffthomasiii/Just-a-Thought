@@ -18,5 +18,6 @@ minima:
     - tags.md
   show_excerpts: true
 
+# Add this to _config.yml
 plugins:
   - jekyll-feed
